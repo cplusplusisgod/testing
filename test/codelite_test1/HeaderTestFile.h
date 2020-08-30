@@ -1,0 +1,5 @@
+class HeaderTest
+{
+  public:
+    HeaderTest();
+};
