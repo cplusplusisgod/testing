@@ -7,6 +7,9 @@
 #ignore MakeFile
 Makefile
 
+#ignore debug
+/Debug
+
 # Compiled Object files
 *.slo
 *.lo
