@@ -8,7 +8,7 @@
 Makefile
 
 #ignore debug
-/Debug
+Debug
 
 # Compiled Object files
 *.slo
