@@ -7,6 +7,7 @@
 *.o
 *.obj
 *.codelite
+*.mk
 
 # Precompiled Headers
 *.gch
