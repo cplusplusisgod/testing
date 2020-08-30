@@ -5,7 +5,7 @@
 *.txt
 
 #ignore MakeFile
-*MakeFile
+Makefile
 
 # Compiled Object files
 *.slo
