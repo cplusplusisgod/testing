@@ -6,9 +6,11 @@
 
 #ignore MakeFile
 Makefile
+*CMake
+*.cmake
 
 #ignore debug
-Debug
+*Debug
 
 # Compiled Object files
 *.slo
@@ -41,3 +43,22 @@ Debug
 *.exe
 *.out
 *.app
+
+
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+CMakeLists.txt
+
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
