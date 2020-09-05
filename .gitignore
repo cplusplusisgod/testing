@@ -1,7 +1,8 @@
 # Prerequisites
 *.d
 
-#ignore all text files
+#ignore .project
+*.project
 
 
 #ignore MakeFile
