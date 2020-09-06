@@ -2,7 +2,7 @@
 ### C++ ###
 
 #debug folder
-*.debug
+*.build
 # Prerequisites
 *.d
 
