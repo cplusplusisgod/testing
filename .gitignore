@@ -1,5 +1,8 @@
 
 ### C++ ###
+
+#debug folder
+*.debug
 # Prerequisites
 *.d
 
